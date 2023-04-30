@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fuzzy_controller", "fuzzy_controller.vcxproj", "{05193DF7-A0BC-494A-A4FC-9FF53130FE87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05193DF7-A0BC-494A-A4FC-9FF53130FE87}.Debug|x64.ActiveCfg = Debug|x64
+		{05193DF7-A0BC-494A-A4FC-9FF53130FE87}.Debug|x64.Build.0 = Debug|x64
+		{05193DF7-A0BC-494A-A4FC-9FF53130FE87}.Debug|x86.ActiveCfg = Debug|Win32
+		{05193DF7-A0BC-494A-A4FC-9FF53130FE87}.Debug|x86.Build.0 = Debug|Win32
+		{05193DF7-A0BC-494A-A4FC-9FF53130FE87}.Release|x64.ActiveCfg = Release|x64
+		{05193DF7-A0BC-494A-A4FC-9FF53130FE87}.Release|x64.Build.0 = Release|x64
+		{05193DF7-A0BC-494A-A4FC-9FF53130FE87}.Release|x86.ActiveCfg = Release|Win32
+		{05193DF7-A0BC-494A-A4FC-9FF53130FE87}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DBF8AA0-B684-4F65-88DD-4E7AF4EAE809}
+	EndGlobalSection
+EndGlobal

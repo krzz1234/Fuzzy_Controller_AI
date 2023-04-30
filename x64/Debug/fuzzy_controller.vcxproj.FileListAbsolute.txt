@@ -1,0 +1,2 @@
+C:\CORE\Massey_Papers\159302\159302\Assignments\Assignments 2022\A2\StartUp_Codes_Pendulum_Visual_Studio\x64\Debug\fuzzy_controller.exe
+C:\Users\Mark\Documents\Uni\159.302_AI\Assignment2\StartUp_Codes_Pendulum_Visual_Studio\AI_Assignment2\x64\Debug\fuzzy_controller.exe
