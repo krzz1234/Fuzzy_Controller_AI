@@ -70,7 +70,6 @@ Fuzzy_Controller_AI/
 
 * **Language:** Python (or your project language)
 * **Core Concepts:** Fuzzy Logic, AI, Control Systems
-* **Libraries:** (List any specific AI or fuzzy logic libraries used)
 
 ---
 
